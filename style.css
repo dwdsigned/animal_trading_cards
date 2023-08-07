@@ -1,0 +1,46 @@
+/* add your CSS here */
+.bold {
+    font-weight: bold;
+
+}
+
+.outline, img {
+    border: .5px solid black;
+
+}
+
+.width-300 {
+    width: 270px;
+    padding: 8px 15px 8px 15px;
+    margin-top: 5px;
+
+}
+
+.width-310 {
+    width: 310px;
+    padding: 0px 2px 10px 10px;
+    box-shadow: 0px 6px 6px 0px rgba(0,0,0,0.6);
+}
+
+.italic {
+    font-style: italic;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+ul {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.color-bg {
+    background: rgb(255,255,0);
+    background: radial-gradient(circle, rgba(255,255,0,0.22507122507122512) 0%, rgba(255,0,0,0.23076923076923073) 100%);
+}
+
+.linear-gradient {
+    background: rgb(255,255,0);
+background: linear-gradient(22deg, rgba(255,255,0,0.6809116809116809) 0%, rgba(255,0,0,0.6866096866096867) 100%);
+}
